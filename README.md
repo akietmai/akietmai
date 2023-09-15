@@ -13,47 +13,87 @@ technologies and best practices to become a better engineer.
 
 ## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/php.png"/>
+  <img src="https://img.icons8.com/fluency/48/laravel.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/jquery.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-## Activities:
+# Work Experience:
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<h3>GMT - Global Media Technology (09/2022 - 08/2023)</h3>
+<h4>Full-Stack Developer</h4>
 
-# Certificates:
+1. gmtshop.com.au (4 members, 2 full-stacks, 1 mobile, 1 designer)
+   - Description: Online mini supermarket selling products via a web application in Australia.
+   - Technologies:
+     - Back-end: PHP, framework Laravel, MySQL.
+     - Front-end: Jquery, Bootstrap.
+     - Mobile: Flutter.
+   - Responsibilities:
+     - Participate in building back-end and front-end.
+     - In charge of API, Admin, writing, and supporting for mobile teams.
+     - Responsible for maintenance and bug fixing.
+     - Research and analyze documents.
+     - Database analysis and design
+
+<hr>
+<h3>Dolphin Solutions (04/2022 - 09/2022)</h3>
+<h4>Full-Stack Developer</h4>
+
+1. edu.okuro.vn (12 members, 5 full-stacks, 2 mobile, 2 testers, 1 BA, 2 designers)
+  - Description: An educational management digitization platform.
+  - Technologies:
+    - Back-end: PHP, framework Laravel, MySQL.
+    - Front-end: Jquery, Bootstrap.
+    - Mobile: React-native.
+  - Responsibilities:
+    - Participate in building back-end and front-end.
+    - In charge of API, Admin, writing, and supporting for mobile teams.
+    - Responsible for maintenance and bug fixing.
+    - Research and analyze documents.
+    - Database analysis and design.
+
+<hr>
+<h3>Metech Software (03/2021 - 03/2022)</h3>
+<h4>Back-end Developer</h4>
+
+1. chotdon.vn (8 members, 2 back-ends, 3 front-ends, 1 mobile, 1 tester, 1 designer)
+  - Description: A web application used to manage sales livestream.
+  - Technologies:
+    - Back-end: PHP, framework Laravel, MongoDB.
+    - Front-end: React, Vue.
+    - Mobile: React-native.
+  - Responsibilities:
+    - In charge of API, Admin, writing, and supporting frontend, and mobile teams.
+    - Responsible for maintenance and bug fixing.
+    - Integrate the services of delivery units such as Giao hàng tiết kiệm, Giao hàng nhanh, Ahamove, SuperShip, VietnamPost,…
+      
+2. mfb.vn (3 members, 2 back-ends, 1 front-end)
+  - Description: A web application that supports increasing interaction with customers in the fastest way with the best cost.
+  - Technologies:
+    - Back-end: PHP, framework Laravel, MySQL.
+    - Front-end: Vue.
+  - Responsibilities:
+    - In charge of API, writing, and supporting front-end developers.
+    - Responsible for maintenance and bug fixing.
+
+3. Gonotes (3 members, 2 back-ends, 1 front-end)
+  - Description: A web application that supports online notes.
+  - Technologies:
+    - Back-end: Nodejs, MongoDB.
+    - Front-end: React.
+  - Responsibilities:
+    - Write api for new functions of the project.
+
+
+# Education:
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1)
-- [![MATLAB](https://img.shields.io/badge/-MATLAB-orange) Machine Learning Onramp](https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/certificate/XFNU3UXCK5DG)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Audio Classification with TensorFlow](https://www.coursera.org/account/accomplishments/certificate/MBSDFCKQ9X8E)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/PQMJRCLM7BCQ)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/V7MK7JDL96DU)
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/account/accomplishments/certificate/DVXXD98ESKLP)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Python](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Machine Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-machine-learning)
-- [![KAGGLE](https://img.shields.io/badge/-KAGGLE-blue) Intro to Deep Learning](https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning)
+<h3>Van Lang University (08/2017 - 08-2021)</h3>
+<h4>Specialized: Information Technology</h4>
