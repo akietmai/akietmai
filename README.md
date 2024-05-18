@@ -5,9 +5,7 @@
 </p>
 
 
-- ✍ I'm a Full Stack Software Engineer with more than 2 years of experience in Web Development. I have 2 years of
-experience in Back-end PHP Laravel-related technologies and 6 months in Front-end. I also spend time learning new
-technologies and best practices to become a better engineer.
+- ✍ I'm a Full Stack Software Engineer with 3 years of experience in Web Development. I have more than 2 years of experience in Back-end PHP Laravel-related technologies and 6 months in Front-end. I also spend time learning new technologies and best practices to become a better engineer.
 
 <br />
 
@@ -25,7 +23,44 @@ technologies and best practices to become a better engineer.
 
 # Work Experience:
 
-<h3>GMT - Global Media Technology (09/2022 - 08/2023)</h3>
+<h3>C-UNIT SQUARE CO., LTD (06/2023 - Present)</h3>
+<h4>Full-Stack Developer</h4>
+
+1.	Sugie Seiki (4 members, 3 full-stacks, 1 interpreter)
+   - Description: A web application used to enterprise management systems for Japanese customers.
+   - Technologies:
+      - Back-end: PHP, framework Laravel, MySQL.
+      - Front-end: Jquery, Bootstrap.
+   - Responsibilities:
+      -	Participate in building back-end and front-end.
+      -	Responsible for maintenance and bug fixing.
+      -	Research and analyze documents.
+      -	Database analysis and design.
+
+2.	D-Link MVP5 (4 members, 2 full-stacks, 1 mobile, 1 interpreter)
+   - Description:
+   - Technologies:
+      - Back-end: PHP, framework Laravel, MySQL, AWS Cognito.
+      - Front-end: Jquery, Bootstrap.
+   - Responsibilities:
+      -	In charge of API, Admin, writing, and supporting mobile teams.
+      -	Participate in building back-end and front-end.
+      -	Responsible for maintenance and bug fixing.
+      -	Research and analyze documents.
+      -	Write unit tests and check the effectiveness of the code.
+
+3.	Sodick (3 members, 2 full-stacks, 1 interpreter)
+   - Description: A web application used to service management systems for Japanese customers.
+   - Technologies:
+      - Back-end: PHP, framework Zend 1, MySQL.
+      - Front-end: Jquery, Bootstrap.
+   - Responsibilities:
+      -	Participate in building back-end and front-end.
+      -	Responsible for maintenance and bug fixing.
+      -	Research and analyze documents. 
+<hr>
+
+<h3>GMT - Global Media Technology (04/2022 - 05/2023)</h3>
 <h4>Full-Stack Developer</h4>
 
 1. gmtshop.com.au (4 members, 2 full-stacks, 1 mobile, 1 designer)
@@ -40,25 +75,8 @@ technologies and best practices to become a better engineer.
      - Responsible for maintenance and bug fixing.
      - Research and analyze documents.
      - Database analysis and design
-
 <hr>
-<h3>Dolphin Solutions (04/2022 - 09/2022)</h3>
-<h4>Full-Stack Developer</h4>
 
-1. edu.okuro.vn (12 members, 5 full-stacks, 2 mobile, 2 testers, 1 BA, 2 designers)
-  - Description: An educational management digitization platform.
-  - Technologies:
-    - Back-end: PHP, framework Laravel, MySQL.
-    - Front-end: Jquery, Bootstrap.
-    - Mobile: React-native.
-  - Responsibilities:
-    - Participate in building back-end and front-end.
-    - In charge of API, Admin, writing, and supporting for mobile teams.
-    - Responsible for maintenance and bug fixing.
-    - Research and analyze documents.
-    - Database analysis and design.
-
-<hr>
 <h3>Metech Software (03/2021 - 03/2022)</h3>
 <h4>Back-end Developer</h4>
 
